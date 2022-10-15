@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <link rel="stylesheet" type="text/css" href="nomor1.css"> 
+    <link rel="stylesheet" type="text/css" href="nomor 1.css"> 
     <title>Praktikum 4</title>
 </head>
 <body>
